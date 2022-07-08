@@ -1,6 +1,6 @@
-# digiassignment
+# time pass
 
-Assignment digi mantra
+For future reference
 
 ## Getting Started
 
